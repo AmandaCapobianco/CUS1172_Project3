@@ -56,7 +56,8 @@ li{
 }
 
 .jumbotron {
-  background-color:#1A4D80;;
+  background-color:#1A4D80;
+  color: white;
 }
 
 #publications {
